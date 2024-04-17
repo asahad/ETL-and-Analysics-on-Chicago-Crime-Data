@@ -33,8 +33,3 @@ Through meticulous analysis, we identified several key crime trends in Chicago, 
 
 ## Conclusion
 This project not only reinforces the importance of structured data analysis in understanding urban crime but also demonstrates how effectively designed databases combined with advanced ETL processes can enhance data accessibility and analytical capabilities.
- forks
-- **Report repository**
-- **No releases published**
-- **No packages published**
-- **Primary Language**: Jupyter Notebook
