@@ -12,7 +12,7 @@ This dataset encapsulates reported incidents of crime within the City of Chicago
 ## Project Components
 
 ### Part I: Database Design and ETL
-- **Reverse Engineering**: We begin by reverse engineering an existing source RDBMS using metadata SQL queries. This helps identify table structures and attributes essential for reconstructing the database schema in a new environment.
+- **Reverse Engineering**: This involves reverse engineering an existing source RDBMS using metadata SQL queries. This helps identify table structures and attributes essential for reconstructing the database schema in a new environment.
 - **DDL Implementation**: Utilizing DDL, we implement a series of tables within the `dsa_student` database schema on a Postgres server, mirroring the structure of the source database.
 - **ER Diagram**: An Entity Relationship Diagram is constructed to visually represent the database's structural blueprint.
 - **Database Connections**: We establish robust connections between the source and destination databases to facilitate data flow.
